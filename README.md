@@ -119,7 +119,7 @@ from the network.
 
 
 Each block, three nodes are responsible for compiling the transaction and the
-blcok data. They will have a list of all transactions that occured between 
+block data. They will have a list of all transactions that occured between 
 their block and the previous block, and they will compile the transactions
 and announce a block to the network. The three nodes may produce different
 results. This is okay, because just as the nodes have been chosen ahead of
